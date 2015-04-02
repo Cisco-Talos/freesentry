@@ -1,1 +1,2 @@
 # freesentry
+See FreeSentry/README
