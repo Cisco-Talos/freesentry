@@ -52,3 +52,11 @@ specified then LLVM will not call any of the transformations that it normally do
 and it won't call ours either.
 
 For questions or to report issues, please email freesentry@fort-knox.org
+
+More information is available here:
+
+Blog post: http://blogs.cisco.com/security/talos/freesentry
+NDSS paper: ndss15.pdf
+CanSecWest slides: cansec15.pdf
+
+The blog post contains the most recent information on the mitigation.
