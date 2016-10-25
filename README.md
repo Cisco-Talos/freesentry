@@ -4,7 +4,8 @@ Disclaimer: This is alpha software, it might not work as expected, use at your o
 
 Build and install the LLVM in above directory as you normally would
 In this directory (installs to /usr/local/lib and /usr/local/share/freesentry by default):
-```	$ make
+```	
+	$ make
 	# make install
 ```
 
