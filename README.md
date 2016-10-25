@@ -56,7 +56,9 @@ For questions or to report issues, please email freesentry@fort-knox.org
 More information is available here:
 
 Blog post: http://blogs.cisco.com/security/talos/freesentry
+
 NDSS paper: FreeSentry/ndss15.pdf
+
 CanSecWest slides: FreeSentry/cansec15.pdf
 
 The blog post contains the most recent information on the mitigation.
